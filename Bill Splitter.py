@@ -1,4 +1,3 @@
-# write your code here
 import random
 
 num_of_friends = int(input('Enter the number of friends joining (including you):\n'))
